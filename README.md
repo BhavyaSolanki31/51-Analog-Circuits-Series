@@ -32,7 +32,7 @@ This repository is not just a collection of circuits — it is a structured lear
 - Waveform Analysis
 - Practical Hardware Concepts
 
-## Real-World Relevance
+# Real-World Relevance
 
 The circuits included in this repository are closely related to applications used in:
 
@@ -43,7 +43,7 @@ The circuits included in this repository are closely related to applications use
 - Power electronics
 - Instrumentation systems
 
-# 🛠 Learn While Building
+# Learn While Building
 
 Each project is designed with educational and practical value in mind.  
 By working through the circuits, you will learn:
