@@ -1,0 +1,40 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# LTSpice Backup Files
+*.raw
+*.net
+*.log
+*.op.raw
+*.bak
+
+# Cadence Temporary Files
+*.cdslck
+*.simvision
+INCA_libs/
+psf/
+run.*
+waves.shm/
+
+# Multisim Temporary Files
+*.tmp
+
+# MATLAB Temporary Files
+*.asv
+*.autosave
+
+# Compressed Files
+*.zip
+*.rar
+
+# Temporary Files
+temp/
+tmp/
+
+# Python Cache
+__pycache__/
+*.pyc
