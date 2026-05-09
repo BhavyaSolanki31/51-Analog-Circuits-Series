@@ -31,8 +31,6 @@ This repository is not just a collection of circuits — it is a structured lear
 - Circuit Simulations
 - Waveform Analysis
 - Practical Hardware Concepts
-  
----
 
 ## Real-World Relevance
 
