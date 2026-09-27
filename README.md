@@ -133,7 +133,7 @@ You are free to use, modify, distribute, and learn from the projects included in
 # Ready to Start?
 
 Explore the projects, simulate the circuits, analyze the outputs, and strengthen your analog electronics knowledge through practical learning and experimentation.
-Let’s build, learn, and innovate in the world of Analog Electronics 
+Let’s build, learn, and innovate in the world of Analog Electronics.
 
 
 
